@@ -1,6 +1,7 @@
 # ImageEditor_WPF
 
 Unfinished project, trying out C# and Windows Presentation Foundation (UI Framework)
+Application can be found in: .\ImageEditor_WPF\bin\Release\net5.0-windows
 
 <div class="row">
   <div class="column">
