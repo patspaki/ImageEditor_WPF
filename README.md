@@ -1,8 +1,7 @@
 # ImageEditor_WPF
 
-Unfinished project, trying out C# and Windows Presentation Foundation (UI Framework)
-Application can be found in: .\ImageEditor_WPF\bin\Release\net5.0-windows
-
+<p>Unfinished project, trying out C# and Windows Presentation Foundation (UI Framework)</p>
+<p> Application can be found in: .\ImageEditor_WPF\bin\Release\net5.0-windows </p>
 <div class="row">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/59127562/150622298-cdfb64c0-033e-4a58-af3e-1f9e033a44af.PNG" alt="main menu" width="320" height="320">
